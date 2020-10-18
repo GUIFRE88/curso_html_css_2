@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Pequeno curso utilizando HTML e CSS
 
-##  💻 Certificado
-![alt text](https://github.com/GUIFRE88/curso_html_css_2/blob/master/certificado.png)
+##  💻 Exemplo de Tela
+![alt text](https://github.com/GUIFRE88/curso_html_css_2/blob/master/produtos.png)
 
 ----
